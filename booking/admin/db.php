@@ -1,0 +1,4 @@
+<?php
+$con = mysqli_connect("localhost","root","hahaha123","booking") or die(mysql_error());
+
+?>
